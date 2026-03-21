@@ -1,0 +1,57 @@
+{
+  "proposal_id": "PROP-1710700000",
+  "title": "Website Redesign & Digital Transformation",
+  "executive_summary": "We are excited to present a comprehensive proposal for transforming your digital presence. Our team has carefully analyzed your current platform and identified key opportunities to drive engagement, streamline operations, and accelerate growth. This proposal outlines a phased approach that balances quick wins with long-term strategic value.",
+  "understanding": "Your current platform serves as the primary touchpoint for customer interactions, but it struggles with outdated UX patterns, slow load times, and a fragmented design system. Your team has expressed the need for a cohesive brand experience that scales across web and mobile while supporting your aggressive growth targets for Q3-Q4.",
+  "approach": "Our phased approach begins with deep discovery to map user journeys and identify friction points. We then move into rapid prototyping with weekly stakeholder reviews, ensuring alignment at every step. Our AI-native delivery process means we can move 3x faster than traditional agencies while maintaining enterprise-grade quality. Each phase builds on validated learnings from the previous one.",
+  "scope": [
+    {"deliverable": "UX Audit & Research", "description": "Comprehensive analysis of current user flows, heatmaps, and stakeholder interviews to identify top opportunities."},
+    {"deliverable": "Design System", "description": "Component library with tokens, patterns, and documentation for consistent brand expression."},
+    {"deliverable": "Website Redesign", "description": "Full responsive redesign of all key pages with modern UX patterns and optimized conversion flows."},
+    {"deliverable": "Performance Optimization", "description": "Core Web Vitals optimization, image pipeline, and CDN setup for sub-2s load times."},
+    {"deliverable": "Analytics Dashboard", "description": "Custom analytics setup with conversion tracking, funnel visualization, and automated reporting."}
+  ],
+  "timeline": [
+    {"phase": "Discovery & Research", "duration": "2 weeks", "deliverables": ["Stakeholder interviews", "UX audit report", "Competitive analysis"]},
+    {"phase": "Design & Prototyping", "duration": "3 weeks", "deliverables": ["Design system", "Wireframes", "Interactive prototype"]},
+    {"phase": "Development", "duration": "4 weeks", "deliverables": ["Frontend build", "CMS integration", "Performance optimization"]},
+    {"phase": "Launch & Optimize", "duration": "2 weeks", "deliverables": ["QA testing", "Staged rollout", "Analytics setup", "Post-launch optimization"]}
+  ],
+  "investment": {
+    "good": {
+      "name": "Starter",
+      "price": "$15,000",
+      "includes": ["UX Audit & Research", "Basic website redesign (5 key pages)", "Mobile responsive", "Basic analytics setup"]
+    },
+    "better": {
+      "name": "Professional",
+      "price": "$30,000",
+      "includes": ["Everything in Starter", "Full design system", "Complete website redesign (all pages)", "Performance optimization", "Advanced analytics dashboard"]
+    },
+    "best": {
+      "name": "Enterprise",
+      "price": "$50,000",
+      "includes": ["Everything in Professional", "Mobile app companion", "AI-powered personalization", "A/B testing framework", "12-month support & optimization"]
+    }
+  },
+  "why_us": [
+    "10+ years of agency experience delivering for brands like Nike, Shopify, and Stripe",
+    "AI-native delivery process — we move 3x faster without sacrificing quality",
+    "Full-stack team: strategy, design, engineering, and analytics under one roof",
+    "Proven track record of 40%+ conversion improvements for similar projects"
+  ],
+  "next_steps": [
+    "Review this proposal and select your preferred investment tier",
+    "Schedule a 30-minute kickoff alignment call",
+    "Sign the proposal and submit the initial deposit",
+    "We begin Discovery within 48 hours of signing"
+  ],
+  "valid_until": "2026-04-17",
+  "internal_notes": "Strong lead from referral. Decision maker is the VP of Marketing. Budget likely in the Professional tier range. Push for the Enterprise tier by emphasizing the AI personalization ROI.",
+  "client": {
+    "company": "Acme Corp",
+    "contact": "Jane Smith",
+    "email": "jane@acme.com"
+  },
+  "created_at": "2026-03-18T12:00:00Z"
+}
